@@ -13,16 +13,13 @@ A Laravel-based Book Management System designed to help users manage their book 
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page]([screenshots/home_page.png](https://github.com/Waruni9810/Book-Management-System/blob/master/Home.png))
 
 ### Add New Book
-![Add New Book](screenshots/add_book.png)
+![Add New Book]([screenshots/add_book.png](https://github.com/Waruni9810/Book-Management-System/blob/master/add%20newbook.png))
 
-### Edit Book
-![Edit Book](screenshots/edit_book.png)
-
-### Book List with Search
-![Book List with Search](screenshots/book_list.png)
+### View Book List
+![Book List with Search]([screenshots/book_list.png](https://github.com/Waruni9810/Book-Management-System/blob/master/view.png))
 
 ## Installation
 
